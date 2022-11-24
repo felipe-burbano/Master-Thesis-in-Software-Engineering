@@ -1,29 +1,19 @@
-\section{Definición del problema}
-Un problema es todo aquello cuya solución se desconoce; ese desconocimiento puede ser para un grupo de personas o para la humanidad. Para la formulación correcta de un problema se debe tener en cuenta los siguientes aspectos:
+\section{DEFINICIÓN DEL PROBLEMA DE INVESTIGACIÓN}
 
-\begin{itemize}
-\item	Aquello donde exista una situación actual que se desea mejorar, pero se desconoce la manera de lograrlo.
-\item	Una situación actual indeseable, que se desea cambiar o modificar.
-\item	Un problema debe expresarse en términos concretos y explícitos a través del planteamiento, formulación y sistematización.
-\end{itemize}
+\subsection{PLANTEAMIENTO DEL PROBLEMA}
+Uno de los mayores desafíos que enfrentan las empresas es tener la capacidad de lanzar al mercado de manera frecuente software que sea innovador, seguros, con altos estándares de calidad que satisfagan las necesidades de sus usuarios. De lo contrario las empresas se exponen a pérdidas monetarias y de mercado, a daños reputacionales y sanciones por parte de los entes reguladores. Es por esto por lo que se contemplan diferentes metodologías, prácticas y técnicas para apalancar el proceso de desarrollo de software permitiendo así evaluar diferentes escenarios durante la construcción de las soluciones digitales. Una de estas técnicas es el aseguramiento de la calidad del software, ya que permite validar un buen y correcto funcionamiento del sistema desde condiciones normales hasta inusuales ayudando a mitigar los riesgos mencionados anteriormente.
 
-\textbf{Nota:} Es muy importante incluir referencias bibliográficas de las afirmaciones que se realizan y la información que se utiliza en esta definición del problema.
+Dentro del proceso de desarrollo de software se encuentra el proceso de Continuous Integrations por sus siglas en inglés (CI). Es una práctica del desarrollo de software, en donde los desarrolladores integran el código fuente con frecuencia y cada integración  es  verificada por un sistema que construye el código y lo prueba automáticamente (Fowler, 2006). Las pruebas continuas o Continuous Testing  por sus siglas en inglés (CT), es un término introducido por Edward Smith en el año 2000 (Smith, 2000). Consistía  en  un  proceso de ejecución de pruebas durante todo el día (continuamente), mientras se desarrollaba el código. Sin embargo, este concepto ha ido evolucionando con el tiempo. En  el año 2010, este concepto se extiende a otros tipos de pruebas (Burgin, 2010): pruebas de especificación, pruebas de diseño, pruebas sobre el código  fuente,  pruebas funcionales,  pruebas no funcionales, pruebas de instalación, pruebas de soporte y pruebas de mantenimiento. El mayor problema que enfrentan los equipos de desarrollo de software  hoy en día es poder identificar qué tipo de prueba realizar y lograr obtener un feedback apropiado y oportuno de acuerdo a cada ejecución realizada con el objetivo de desplegar cambios que aporten valor continuamente en los diferentes ambiente como Desarrollo, Staging, Producción ya sea diario, semanal, quincenal o mensual, esto debido a que existen diferentes pruebas como son las unitarias, las de componente, de integración y regresión donde cada una de estas tienen diferentes enfoques de aplicación y su retroalimentación varía en cada caso de acuerdo a su frecuencia de despliegue.
 
+Las pruebas unitarias que aplique el equipo de desarrollo no tienen la cobertura necesaria para asegurar la calidad del software puesto no cubre todas las casuísticas del negocio, el feedback que el equipo de desarrollo puede tener por parte de QA puede llegar a tomar días dado que se debe realizar un análisis previo puesto que la comunicación entre QA y Desarrollo no es directa por lo que genera una brecha al momento de la identificación de bugs, el equipo de desarrollo no tiene claro que tipo de prueba aplicar de acuerdo a cada funcionalidad generando un vacío en el proceso de desarrollo al momento de realizar un despliegue, los tiempo de ejecución de pruebas pueden tardar días dado que no se tiene automatizado flujos críticos de negocio.
 
-\textcolor{red}{Este es un ejemplo de una cita con parafraseo parentética \citep{Glorot2011}}.
+Las causas mencionadas anteriormente denotan que si no hay una comunicación  asertiva rápida y eficaz sobre el resultado del proceso de pruebas o testing genera retrasos en las fechas pactas y sobre costos en el proyecto puesto que no se tiene una estrategia clara durante el proceso de desarrollo de software y se desconoce sobre las herramientas y procesos que permitan al equipo de desarrollo realizar una integración continua junto con QA enfocado a pruebas para desplegar cambios que generen valor al usuario. La calidad debe estar a cargo de todo el equipo de trabajo por ende se puede llegar a tener bugs que se pudieron mitigar previamente y esto conlleva a que estos bugs puedan salir en producción generando los riesgos mencionados al inicio.
 
-Como lo dijo \citet{Razmi2008}  esta es una prueba de algo que vi en Mendeley \citep{Maroukian2021}
- 
-\textcolor{red}{Este es un ejemplo de una cita natarrativa con parafraseo:}
- 
-\textcolor{red}{Como decía \citet{Glorot2011} el trabajo deberia hacerse de la siguiente manera:} 
+\subsection{FORMULACIÓN DEL PROBLEMA}
+De acuerdo al planteamiento del problema, se realiza la siguiente formulación:
 
-\subsection{Planteamiento del problema}
-Es la descripción de la ``Situación actual''. Aquí se describen los síntomas y las posibles causas, y los efectos negativos de las situaciones futuras si se sostiene la situación problema. 
-
-\textbf{TIP:} Contexto + antecendents  + situación problema
-
-\subsection{Formulación del problema}
-Formular el problema es hacer una pregunta o varias preguntas, cuyas respuestas debe encontrarse con la investigación (o trabajo de grado). Estas preguntas generalmente se la conocen como preguntas de la investigación.
-
-La formulación del problema como una o varias preguntas debe incluir preguntas abiertas,  las preguntas pueden empezar por palabras como \textit{qué} o \textit{cómo}, puesto que son más una guía para orientar el trabajo que la búsqueda de una única causa de un fenómeno
+¿Cómo identificar los diferentes tipos de pruebas que se deben realizar?
+¿Cómo implementar un set de pruebas para cada despliegue?
+¿Cada cuanto se deben ejecutar las diferente pruebas de acuerdo a cada despliegue?
+¿Cómo obtener un feedback personalizado de acuerdo a cada ejecución de pruebas?
+¿Cómo implementar una arquitectura de pipelines para la ejecución de pruebas para los diferentes despliegues con feedback inmediato bajo el modelo CIVIT?
