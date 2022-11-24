@@ -1,0 +1,746 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Homebrew) (preloaded format=pdflatex 2022.10.3)  23 NOV 2022 20:49
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24>
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/base/articl
+e.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/base/size12
+.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/base/inpute
+nc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/geometry/ge
+ometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/graphics/ke
+yval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/iftex/ifv
+tex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/iftex/ift
+ex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/babel/bab
+el.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count196
+\U@D=\dimen147
+\l@unhyphenated=\language87
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/babel/txt
+babel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count197
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/babel-spa
+nish/spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks20
+\es@quotdepth=\count198
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/cite/cite.s
+ty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/titling/tit
+ling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip49
+\thanksmargin=\skip50
+\droptitle=\skip51
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/setspace/se
+tspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/graphics/gr
+aphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/graphics/gr
+aphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/graphics/tr
+ig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/graphics-cf
+g/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/graphics-de
+f/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/blindtext/b
+lindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/tools/xspac
+e.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count199
+\c@Blindtext=\count266
+\c@blind@countparstart=\count267
+\blind@countxx=\count268
+\blindtext@numBlindtext=\count269
+\blind@countyy=\count270
+\c@blindlist=\count271
+\c@blindlistlevel=\count272
+\c@blindlist@level=\count273
+\blind@listitem=\count274
+\c@blind@listcount=\count275
+\c@blind@levelcount=\count276
+\blind@mathformula=\count277
+\blind@Mathformula=\count278
+\c@blind@randomcount=\count279
+\c@blind@randommax=\count280
+\c@blind@pangramcount=\count281
+\c@blind@pangrammax=\count282
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/hyperref/hy
+perref.sty
+Package: hyperref 2022-02-21 v7.00n Hypertext links for LaTeX
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/ltxcmds/l
+txcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/pdftexcmd
+s/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/infwarerr
+/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/kvsetkeys
+/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/kvdefinek
+eys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/pdfescape
+/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/hycolor/hyc
+olor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/letltxmacro
+/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/auxhook/aux
+hook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/kvoptions/k
+voptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen150
+\Hy@linkcounter=\count283
+\Hy@pagecounter=\count284
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/hyperref/pd
+1enc.def
+File: pd1enc.def 2022-02-21 v7.00n Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/intcalc/i
+ntcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/etexcmds/
+etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count285
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/hyperref/pu
+enc.def
+File: puenc.def 2022-02-21 v7.00n Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4137.
+Package hyperref Info: Link nesting OFF on input line 4142.
+Package hyperref Info: Hyper index ON on input line 4145.
+Package hyperref Info: Plain pages OFF on input line 4152.
+Package hyperref Info: Backreferencing OFF on input line 4157.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4390.
+\c@Hy@tempcnt=\count286
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4749.
+\XeTeXLinkMargin=\dimen151
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/bitset/bi
+tset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/bigintcal
+c/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count287
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
+LaTeX Info: Redefining \ref on input line 6097.
+LaTeX Info: Redefining \pageref on input line 6101.
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/base/atbegs
+hi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count288
+\c@Item=\count289
+\c@Hfootnote=\count290
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/hyperref/hp
+dftex.def
+File: hpdftex.def 2022-02-21 v7.00n Hyperref driver for pdfTeX
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/base/atvery
+end-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count291
+\c@bookmark@seq@number=\count292
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/rerunfilech
+eck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/uniquecou
+nter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip52
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/natbib/natb
+ib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+
+
+Package natbib Warning: The `cite' package should not be used
+(natbib)                with natbib. Use option `sort' instead.
+
+\bibhang=\skip53
+\bibsep=\skip54
+LaTeX Info: Redefining \cite on input line 694.
+LaTeX Info: Redefining \citenum on input line 708.
+\c@NAT@ctr=\count293
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/caption/cap
+tion.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/caption/cap
+tion3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen154
+\captionmargin=\dimen155
+\caption@leftmargin=\dimen156
+\caption@rightmargin=\dimen157
+\caption@width=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count294
+\c@continuedfloat=\count295
+Package caption Info: hyperref package is loaded.
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/tools/array
+.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen162
+\ar@mcellbox=\box50
+\extrarowheight=\dimen163
+\NC@list=\toks21
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box51
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/booktabs/bo
+oktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen164
+\lightrulewidth=\dimen165
+\cmidrulewidth=\dimen166
+\belowrulesep=\dimen167
+\belowbottomsep=\dimen168
+\aboverulesep=\dimen169
+\abovetopsep=\dimen170
+\cmidrulesep=\dimen171
+\cmidrulekern=\dimen172
+\defaultaddspace=\dimen173
+\@cmidla=\count296
+\@cmidlb=\count297
+\@aboverulesep=\dimen174
+\@belowrulesep=\dimen175
+\@thisruleclass=\count298
+\@lastruleclass=\count299
+\@thisrulewidth=\dimen176
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/pdflscape/p
+dflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/graphics/ls
+cape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/multirow/mu
+ltirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip57
+\multirow@cntb=\count300
+\multirow@dima=\skip58
+\bigstrutjot=\dimen177
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/float/float
+.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count301
+\float@exts=\toks22
+\float@box=\box52
+\@float@everytoks=\toks23
+\@floatcapt=\box53
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/tools/longt
+able.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip59
+\LTright=\skip60
+\LTpre=\skip61
+\LTpost=\skip62
+\LTchunksize=\count302
+\LTcapwidth=\dimen178
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count303
+\LT@rows=\count304
+\c@LT@tables=\count305
+\c@LT@chunks=\count306
+\LT@p@ftn=\toks24
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/dblfloatfix
+/dblfloatfix.sty
+Package: dblfloatfix 2012/12/31 v1.0a (JAW)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/base/fixltx
+2e.sty
+Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
+Applying: [2015/01/01] Old fixltx2e package on input line 46.
+
+
+Package fixltx2e Warning: fixltx2e is not required with releases after 2015
+(fixltx2e)                All fixes are now in the LaTeX kernel.
+(fixltx2e)                See the latexrelease package for details.
+
+Already applied: [0000/00/00] Old fixltx2e package on input line 53.
+)
+\@dblbotnum=\count307
+\c@dblbotnumber=\count308
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/subfig/subf
+ig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count309
+\sf@farskip=\skip63
+\sf@captopadj=\dimen179
+\sf@capskip=\skip64
+\sf@nearskip=\skip65
+\c@subfigure=\count310
+\c@subfigure@save=\count311
+\c@lofdepth=\count312
+\c@subtable=\count313
+\c@subtable@save=\count314
+\c@lotdepth=\count315
+\sf@top=\skip66
+\sf@bottom=\skip67
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/xcolor/xcol
+or.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/graphics-cf
+g/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/l3backend/l
+3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count316
+\l__pdf_internal_box=\box59
+)
+(/Users/andresburbano/Library/CloudStorage/OneDrive-Personal/Javeriana/Proyecto
+ de grado I/Anteproyecto con LATEX/out/main.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/context/base/mkii
+/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count317
+\scratchdimen=\dimen180
+\scratchbox=\box60
+\nofMPsegments=\count318
+\nofMParguments=\count319
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count320
+\MPscratchDim=\dimen181
+\MPnumerator=\count321
+\makeMPintoPDFobject=\count322
+\everyMPtoPDFconversion=\toks26
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/epstopdf-pk
+g/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/latexconfig
+/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package hyperref Info: Link coloring OFF on input line 47.
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/hyperref/na
+meref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/refcount/re
+fcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/generic/gettitles
+tring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count323
+)
+LaTeX Info: Redefining \ref on input line 47.
+LaTeX Info: Redefining \pageref on input line 47.
+LaTeX Info: Redefining \nameref on input line 47.
+
+(/Users/andresburbano/Library/CloudStorage/OneDrive-Personal/Javeriana/Proyecto
+ de grado I/Anteproyecto con LATEX/out/main.out)
+(/Users/andresburbano/Library/CloudStorage/OneDrive-Personal/Javeriana/Proyecto
+ de grado I/Anteproyecto con LATEX/out/main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+
+(/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/tex/latex/caption/ltc
+aption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+ (./src/00-titulo.tex
+<img//pujlogo.png, id=76, 303.1325pt x 108.405pt>
+File: img//pujlogo.png Graphic file (type png)
+<use img//pujlogo.png>
+Package pdftex.def Info: img//pujlogo.png  used on input line 5.
+(pdftex.def)             Requested size: 256.0748pt x 91.5773pt.
+ [1
+
+{/opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/map/pdftex/updm
+ap/pdftex.map} <./img//pujlogo.png>])
+[2] (./src/00-resumen.tex) [3]
+(/Users/andresburbano/Library/CloudStorage/OneDrive-Personal/Javeriana/Proyecto
+ de grado I/Anteproyecto con LATEX/out/main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+(/Users/andresburbano/Library/CloudStorage/OneDrive-Personal/Javeriana/Proyecto
+ de grado I/Anteproyecto con LATEX/out/main.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@lof=\write5
+\openout5 = `main.lof'.
+
+
+(/Users/andresburbano/Library/CloudStorage/OneDrive-Personal/Javeriana/Proyecto
+ de grado I/Anteproyecto con LATEX/out/main.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+
+Package natbib Warning: Citation `Hinton2012' on page 4 undefined on input line
+ 2.
+
+)
+\tf@lot=\write6
+\openout6 = `main.lot'.
+
+ [4] [5] (./src/0-abstract.tex) [6] (./src/0-introduccion.tex
+<img//Deep.png, id=154, 293.6571pt x 361.8318pt>
+File: img//Deep.png Graphic file (type png)
+<use img//Deep.png>
+Package pdftex.def Info: img//Deep.png  used on input line 29.
+(pdftex.def)             Requested size: 215.0023pt x 264.9135pt.
+<img//freq_req.png, id=155, 396.48125pt x 263.98625pt>
+File: img//freq_req.png Graphic file (type png)
+<use img//freq_req.png>
+Package pdftex.def Info: img//freq_req.png  used on input line 32.
+(pdftex.def)             Requested size: 163.40385pt x 108.79898pt.
+
+
+Package natbib Warning: Citation `Hinton2012' on page 7 undefined on input line
+ 47.
+
+
+Package natbib Warning: Citation `Hinton2012' on page 7 undefined on input line
+ 47.
+
+File: img//freq_req.png Graphic file (type png)
+<use img//freq_req.png>
+Package pdftex.def Info: img//freq_req.png  used on input line 57.
+(pdftex.def)             Requested size: 215.0023pt x 143.15466pt.
+[7 <./img//Deep.png> <./img//freq_req.png>]) [8] (./src/1-problema.tex
+
+Package natbib Warning: Citation `Glorot2011' on page 9 undefined on input line
+ 13.
+
+
+Package natbib Warning: Citation `Razmi2008' on page 9 undefined on input line 
+15.
+
+
+Package natbib Warning: Citation `Maroukian2021' on page 9 undefined on input l
+ine 15.
+
+
+Package natbib Warning: Citation `Glorot2011' on page 9 undefined on input line
+ 19.
+
+) [9] [10] (./src/2-objetivos.tex
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
+
+ []
+
+[11]) [12] (./src/3-alcance.tex) [13] (./src/4-justificacion.tex) [14]
+(./src/5-marco.tex [15] [16]) [17] (./src/6-metodologia.tex) [18]
+(./src/7-recursos.tex) [19] (./src/8-cronograma.tex) [20]
+No file main.bbl.
+[21]
+
+Package natbib Warning: There were undefined citations.
+
+[22]
+(/Users/andresburbano/Library/CloudStorage/OneDrive-Personal/Javeriana/Proyecto
+ de grado I/Anteproyecto con LATEX/out/main.aux
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+)
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 72151E28F35267BDC4F1C34F908D7B49;2995.
+ ) 
+Here is how much of TeX's memory you used:
+ 13346 strings out of 478268
+ 223007 string characters out of 5835366
+ 537877 words of memory out of 5000000
+ 31254 multiletter control sequences out of 15000+600000
+ 475252 words of font info for 48 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 60i,10n,63p,576b,472s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></opt/homebrew/Cellar/texlive/20220
+321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/homebrew/
+Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
+.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr17.pfb></opt/homebrew/Cellar/texlive/20220321_3/share/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr8.pfb></opt/homebrew/Cellar/texlive/20220
+321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></opt/homebrew
+/Cellar/texlive/20220321_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
+12.pfb>
+Output written on "/Users/andresburbano/Library/CloudStorage/OneDrive-Personal/
+Javeriana/Proyecto de grado I/Anteproyecto con LATEX/out/main.pdf" (22 pages, 2
+11668 bytes).
+PDF statistics:
+ 303 PDF objects out of 1000 (max. 8388607)
+ 256 compressed objects within 3 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 160 words of extra memory for PDF output out of 10000 (max. 10000000)
+
